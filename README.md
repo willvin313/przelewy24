@@ -39,7 +39,7 @@ $gateway->setPostData([
     'p24_amount'        => 'Amount',
     'p24_description'   => 'Description',
     'p24_email'         => 'Email',
-    'p24_session_id'    => $gateway->getSessionId($orderId), //pass your transaction id here or use this $gateway->getSessionId($orderId) function to generate the id
+    'p24_session_id'    => $gateway->getSessionId('Transaction ID'), //pass your transaction id here or use this $gateway->getSessionId($orderId) function to generate the id
     'p24_currency'      => 'Currency',
     'p24_country'       => 'Country',
     'p24_url_return'    => 'Url to redirect user, after payment',
@@ -205,6 +205,11 @@ $res = $gateway->trnRequest('Pass transaction token here'); // trigger the payme
 
 ```php
 $res = $gateway->trnVerify(); // Use to verify the payment sent to your callback url
+```
+
+## Generate Session ID
+```php
+$gateway->getSessionId('Transaction ID');
 ```
 
 # Support
