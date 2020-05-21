@@ -1,0 +1,23 @@
+{
+    "name": "willvin/przelewy24",
+    "description": "A simple php payment library that implements the przelewy24 payment gateway.",
+    "keywords": ["composer", "package", "payment gateway", "payments", "przelewy24", "php"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Williams johnson",
+        "email": "info@willvin.com"
+    }],
+    "type": "library",
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "willvin\\Przelewy24\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
