@@ -5,6 +5,7 @@ A simple composer package that implements the przelewy24 payment gateway.
 #### willvin's Przelewy24 payment processing library
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8cfd72d55ca442e4b3d06fbbf3a7ce89)](https://www.codacy.com/manual/willvin313/przelewy24?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=willvin313/przelewy24&amp;utm_campaign=Badge_Grade)
 
 For more information about the Przelewy24 API, take a look at the [manual](http://www.przelewy24.pl/files/cms/13/przelewy24_specification.pdf)
 
@@ -221,9 +222,9 @@ or better yet, fork the library and submit a pull request.
 
 You can support this project by donating to the following address.
 
-<a href="https://www.buymeacoffee.com/GCWc1kS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" ></a>
+<a href="https://www.buymeacoffee.com/GCWc1kS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" ></a><br>
 
-<strong>PayPal:</strong> <a href="https://paypal.me/willvin">Make a Donation</a>
+<strong>PayPal:</strong> <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NVDF87UJY5J3L&source=url" target="_blank"><img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" height="21px" ></a>
 
 <strong>Patreon:</strong> <a href="https://www.patreon.com/bePatron?u=25729924" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
