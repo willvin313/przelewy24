@@ -147,7 +147,7 @@ $gateway->addValue('p24_url_status', 'Transaction status callback url';
 $gateway->addValue('p24_channel', $gateway::P24_CHANNEL_ALL);// you have the following channels available P24_CHANNEL_CC, P24_CHANNEL_BANK_TRANSFERS, P24_CHANNEL_MANUAL_TRANSFER, P24_CHANNEL_ALL_METHODS_24_7, P24_CHANNEL_USE_PREPAYMENT, P24_CHANNEL_ALL
 ```
 
-### Other available Past Data fields
+### Other available Post Data fields
 ```php
 p24_address
 
@@ -224,7 +224,7 @@ You can support this project by donating to the following address.
 
 <a href="https://www.buymeacoffee.com/GCWc1kS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51px" ></a><br>
 
-<strong>PayPal:</strong> <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NVDF87UJY5J3L&source=url" target="_blank"><img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" height="21px" ></a>
+<strong>PayPal:</strong> <a href="https://paypal.me/iamwillvin">Make a Donation</a>
 
 <strong>Patreon:</strong> <a href="https://www.patreon.com/bePatron?u=25729924" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
